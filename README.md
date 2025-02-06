@@ -12,7 +12,7 @@
  *  	- Microelectrode array implants, accompanied by machine learning artificial intelligence can be used to read and translate nerve inputs in upper arm amputees. 
  * 	    - This technology would allow for more intuitive control of upper limb prostheses and help users connect to the able bodies and natural world.
  *
- *  Brief explanation of my app
+ *  Brief explanation of my "app"
  *  	- I ask the user if they would like to use one of my features
  * 		- If they choose the first one, they are placed in a game where they have to find the doctor to replace their prosthetic before it breaks. (There is more information if you start it up.)
  * 		- In the second one I first ask the user if they would like me tell them more info about our subject. I then give them options and they choose if they want to make a prosthetic or test out the prosthetic they already have.
