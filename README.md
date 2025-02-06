@@ -5,22 +5,19 @@
 #include <time.h>
 
 /*
- *  Jake Zeminaki, Ben Swanson, and Cadence Durham
- *  Team 34
- *
  *  Paper Title
  *  	- "Implementation of Microelectrode Implants and AI as as Effective Method of Improving Motor Skills and Sense of Touch in Prosthetic Hands"
  *
- *  Main Ideas of our Paper
+ *  Main Ideas of my Paper
  *  	- Microelectrode array implants, accompanied by machine learning artificial intelligence can be used to read and translate nerve inputs in upper arm amputees. 
  * 	    - This technology would allow for more intuitive control of upper limb prostheses and help users connect to the able bodies and natural world.
  *
- *  Brief explanation of our app
- *  	- We ask the user if they would like to use one of our features
+ *  Brief explanation of my app
+ *  	- I ask the user if they would like to use one of my features
  * 		- If they choose the first one, they are placed in a game where they have to find the doctor to replace their prosthetic before it breaks. (There is more information if you start it up.)
- * 		- In the second one we first ask the user if they would like us tell them more info about our subject. We then give them options and they choose if they want to make a prosthetic or test out the prosthetic they already have.
- * 		- In the third one we quiz the user on our subject and give them a score based on how well they did.
- * 		- Lastly we ask the user if they would like to run again
+ * 		- In the second one I first ask the user if they would like me tell them more info about our subject. I then give them options and they choose if they want to make a prosthetic or test out the prosthetic they already have.
+ * 		- In the third one I quiz the user on our subject and give them a score based on how well they did.
+ * 		- Lastly I ask the user if they would like to run again
  */
 		 
 		// include at least 7 functions
